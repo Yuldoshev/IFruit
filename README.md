@@ -1,6 +1,7 @@
 # ifruit
 
-A new Flutter project.
+Deep Learning with Flutter & Python
+
 
 <img src="https://user-images.githubusercontent.com/15108480/158590426-761f5425-ec5e-45e0-a4ab-d5249ad78dc3.jpg" width="180">|
 <img src="https://user-images.githubusercontent.com/15108480/158590303-33864b01-4188-40f1-85d9-db922db05e64.png" width="180">
